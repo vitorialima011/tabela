@@ -1,0 +1,83 @@
+table{
+    padding: 5px;
+    text-align: center;
+    width: 100%;
+    height: 10px
+}
+ 
+td,th{
+    padding: 10px;
+ 
+}
+ 
+#Português{
+    background-color: plum;
+}
+ 
+th{
+    background-color: white;
+ 
+}
+ 
+#horários{
+background-color: rgba(152, 227, 255, 0.806);
+
+}
+
+#Biologia{
+    background-color: rgb(101, 201, 208);
+
+}
+
+#Matematica{
+background-color: rgba(214, 56, 29, 0.578);
+
+}
+
+#Inglês{
+    background-color: plum;
+}
+
+#Técnico{
+background-color: rgb(106, 221, 106);
+}
+
+#Artes{
+    background-color: rgba(235, 235, 61, 0.998);
+}
+
+#História{
+background-color: rgb(228, 205, 132);
+}
+
+#Sociologia{
+    background-color: rgb(228, 205, 132);
+}
+
+#Geografia{
+background-color: rgb(228, 205, 132);
+}
+
+#Filosofia{
+    background-color: rgb(228, 205, 132);
+}
+
+#PV{
+    background-color: rgb(44, 44, 196);
+}
+
+#Matemática{
+    background-color: rgb(199, 79, 79);
+}
+
+#PI{
+    background-color: rgb(106, 221, 106);
+}
+
+#Química{
+    background-color: rgb(51, 125, 125);
+}
+
+#Física{
+   background-color: rgb(120, 116, 116); 
+}
